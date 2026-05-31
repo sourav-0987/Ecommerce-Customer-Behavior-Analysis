@@ -1,0 +1,7 @@
+payment_id,order_id,payment_method,payment_status
+1,1001,UPI,Success
+2,1002,Credit Card,Success
+3,1003,UPI,Success
+4,1004,Net Banking,Success
+5,1005,Debit Card,Success
+6,1006,UPI,Success

@@ -1,0 +1,6 @@
+customer_id,customer_name,gender,city,signup_date
+1,Rahul Sharma,Male,Delhi,2023-01-10
+2,Priya Singh,Female,Mumbai,2023-02-15
+3,Aman Verma,Male,Chandigarh,2023-03-20
+4,Neha Gupta,Female,Bangalore,2023-04-12
+5,Rohit Kumar,Male,Pune,2023-05-05
